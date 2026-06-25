@@ -1,56 +1,18 @@
-# Hi 👋 I'm Jean Lucca Bueno
+# Jean Lucca Bueno
 
-Data Analyst | Python | SQL | AWS Certified Cloud Practitioner
+Data Analyst | Python | SQL | AWS Cloud
 
-📍 São Paulo, Brazil
+Software Engineer focused on Data Analytics and Cloud Computing. AWS Certified Cloud Practitioner and MBA student in Software Engineering.
 
-I'm passionate about data, cloud computing and software development.
+### Tech Stack
+Python • SQL • Pandas • AWS • Flask • Git • React • Next.js
 
-Currently pursuing an MBA in Software Engineering and building practical projects involving Data Analytics, Python, SQL and AWS.
+### Certification
+🏆 AWS Certified Cloud Practitioner (CLF-C02)
 
-## Skills
+### Current Focus
+Data Analytics • Data Engineering • Cloud Computing
 
-### Data
-- Python
-- Pandas
-- SQL
-- Power BI
-- Data Analysis
-
-### Cloud
-- AWS
-- S3
-- EC2
-- Athena
-- Docker
-
-### Development
-- Flask
-- REST APIs
-- Git
-- GitHub
-
-### Front-End
-- React
-- Next.js
-- TailwindCSS
-
-## Certifications
-
-- AWS Certified Cloud Practitioner (CLF-C02)
-
-## Current Focus
-
-- Data Analytics
-- SQL
-- Python
-- Cloud Computing
-- Data Engineering
-
-## Connect with me
-
-LinkedIn:
-linkedin.com/in/jeanluccabueno
-
-GitHub:
-github.com/Jeanlucca12
+### Links
+LinkedIn: linkedin.com/in/jeanluccabueno  
+Portfolio: jeanbueno.com.br
